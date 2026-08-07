@@ -1,0 +1,23 @@
+
+Call:
+lm(formula = temperature_anomaly ~ solar_exposure_anomaly, data = climate)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-1.9800 -0.8183 -0.1836  0.7500  2.5738 
+
+Coefficients:
+                         Estimate Std. Error t value Pr(>|t|)    
+(Intercept)            -4.078e-16  1.320e-01   0.000        1    
+solar_exposure_anomaly  7.627e-02  1.675e-02   4.554 2.75e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.023 on 58 degrees of freedom
+Multiple R-squared:  0.2634,	Adjusted R-squared:  0.2507 
+F-statistic: 20.74 on 1 and 58 DF,  p-value: 2.747e-05
+
+
+99% confidence interval for the solar exposure slope:
+                            0.5 %    99.5 %
+solar_exposure_anomaly 0.03166875 0.1208654
