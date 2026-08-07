@@ -8,10 +8,10 @@ I am interested in using data and technology to solve practical operational prob
 
 | Project | Focus | Tools |
 | --- | --- | --- |
-| [Perth Climate Analysis](./perth-climate-analysis) | Relationship between solar exposure and temperature anomalies, plus statistical power simulation | R, regression, hypothesis testing, simulation |
-| [Environmental and Mortality Modelling](./environmental-mortality-modelling) | Exploratory analysis, model selection, regression diagnostics and causal inference | R, statistical modelling, simulation |
-| [Organisation Analytics](./organisation-analytics-python) | Data validation, statistical comparison, distance measurement and category ranking | Python, CSV processing, descriptive statistics |
-| [Network Routing and Connectivity](./network-routing-algorithms) | Security-constrained shortest paths and time-dependent rail connectivity | Python, Dijkstra, custom min-heap, Union-Find |
+| [Perth Climate Analysis](https://github.com/leminhhungmh1512-bit/data-science-portfolio/tree/main/perth-climate-analysis) | Relationship between solar exposure and temperature anomalies, plus statistical power simulation | R, regression, hypothesis testing, simulation |
+| [Environmental and Mortality Modelling](https://github.com/leminhhungmh1512-bit/data-science-portfolio/tree/main/environmental-mortality-modelling) | Exploratory analysis, model selection, regression diagnostics and causal inference | R, statistical modelling, simulation |
+| [Organisation Analytics](https://github.com/leminhhungmh1512-bit/data-science-portfolio/tree/main/organisation-analytics-python) | Data validation, statistical comparison, distance measurement and category ranking | Python, CSV processing, descriptive statistics |
+| [Network Routing and Connectivity](https://github.com/leminhhungmh1512-bit/data-science-portfolio/tree/main/network-routing-algorithms) | Security-constrained shortest paths and time-dependent rail connectivity | Python, Dijkstra, custom min-heap, Union-Find |
 
 ## Technical Skills Demonstrated
 
