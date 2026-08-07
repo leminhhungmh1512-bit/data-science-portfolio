@@ -1,0 +1,10 @@
+Analysis of Variance Table
+
+Model 1: Mortality ~ Precip + JanTemp + JulyTemp + Educ + Density + NonWhite
+Model 2: Mortality ~ Precip + JanTemp + JulyTemp + Educ + Density + NonWhite + 
+    log(HC) + log(NOX) + log(SO2)
+  Res.Df   RSS Df Sum of Sq     F   Pr(>F)   
+1     53 66518                               
+2     50 52712  3     13806 4.365 0.008313 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

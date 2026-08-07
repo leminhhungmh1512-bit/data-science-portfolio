@@ -1,0 +1,4 @@
+"criterion","variables","BIC","adjusted_R2","Cp"
+"BIC","JanTemp, House, Educ, NonWhite",622.412616880181,0.6491958337993,5.4887955543395
+"Adjusted R-squared","Precip, JanTemp, JulyTemp, House, Educ, Density, NonWhite",625.417461131922,0.682117724063474,3.53872432654816
+"Mallows Cp","Precip, JanTemp, JulyTemp, Educ, Density, NonWhite",623.679989269823,0.67562049908429,3.44326445322652
