@@ -1,0 +1,13 @@
+organisation_id,country,category,number_of_employees,median_salary,profit_2020_million,profit_2021_million
+au-energy-01,Australia,Energy,9200,96000,415,468
+au-energy-02,Australia,Energy,6100,88000,280,315
+au-transport-01,Australia,Transport,5300,79000,190,176
+au-transport-02,Australia,Transport,4100,74000,155,169
+de-energy-01,Germany,Energy,7800,91000,360,405
+de-energy-02,Germany,Energy,4900,83000,225,244
+de-transport-01,Germany,Transport,6800,85000,310,287
+de-transport-02,Germany,Transport,3600,71000,140,151
+jp-energy-01,Japan,Energy,8400,93000,395,438
+jp-energy-02,Japan,Energy,5700,82000,260,278
+jp-transport-01,Japan,Transport,7200,87000,335,361
+jp-transport-02,Japan,Transport,4500,76000,175,164
