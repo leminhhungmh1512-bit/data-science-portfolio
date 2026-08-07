@@ -22,7 +22,7 @@ I am interested in using data and technology to solve practical operational prob
 
 ## Academic Context and Attribution
 
-The two R projects were adapted from collaborative STAT2401 coursework completed by **Minh Hung Le and Do Tri Cuong**. Organisation Analytics was adapted from individual CITS1401 coursework. The network algorithms were adapted from individual CITS2200 laboratory work. All projects were rewritten and documented for portfolio presentation. Original submissions, assignment questions and student numbers are not published here.
+The two R projects were adapted from collaborative STAT2401 coursework completed by **Minh Hung Le and Do Tri Cuong**. Organisation Analytics was adapted from individual CITS1401 coursework. The network algorithms were adapted from individual CITS2200 laboratory work. All projects were rewritten and documented for portfolio presentation.
 
 The R datasets were supplied for coursework and their original sources were not stated in the files available for this portfolio. Organisation Analytics uses a small synthetic dataset created for demonstration.
 
